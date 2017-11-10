@@ -3,5 +3,5 @@ from __future__ import unicode_literals
 from django.apps import AppConfig
 
 
-class SocialauthConfig(AppConfig):
-    name = 'socialauth'
+class BotConfig(AppConfig):
+    name = 'bot'
