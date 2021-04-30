@@ -12,7 +12,7 @@ pyasn1-modules==0.1.5
 PyAudio==0.2.11
 pyttsx==1.1
 requests==2.18.4
-rsa==3.4.2
+rsa==4.7
 simplejson==3.11.1
 six==1.11.0
 SpeechRecognition==3.7.1
